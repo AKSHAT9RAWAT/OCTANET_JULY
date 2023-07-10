@@ -22,6 +22,8 @@
     background-color: #e3ddb1 ;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-image: url(https://st.focusedcollection.com/9264440/i/650/focused_193460728-stock-photo-beautiful-green-rural-landscape-gadmen.jpg);
+    background-size: cover;
   }
   
   nav {
@@ -31,7 +33,7 @@
   }
   
   .logo img {
-    height: 105px;
+    height: 70px;
   }
   
   .nav-links {
@@ -45,7 +47,7 @@
   
   .nav-links li a {
     text-decoration: none;
-    color: #333;
+    color: #e3ddb1;
   }
   
   .hero {
